@@ -1,6 +1,7 @@
 # socketio-chatapp
 
 <h2>usage</h2>
-npm install<b>
-node index.js<b>
-connect localhost:3000
+- npm init
+- npm install
+- node index.js (start app)
+- connect http://localhost:3000
